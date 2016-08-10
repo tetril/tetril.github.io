@@ -10,7 +10,18 @@
 				"/cars/new/sale/*",
 				"/*/cars/used/sale/*",
 				"/*/cars/new/sale/*"
+			],
+			{
+			"appID": "ru.AutoRu",
+			"paths": [
+				"/add",
+				"/*/add",
+				"/cars/used/sale/*",
+				"/cars/new/sale/*",
+				"/*/cars/used/sale/*",
+				"/*/cars/new/sale/*"
 			]
+		}
 		}]
 	}
 }
