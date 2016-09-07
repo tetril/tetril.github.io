@@ -28,3 +28,12 @@ https://tetril.github.io/cars/used/sale/chevrolet/cruze/1040757245-f37c2/
 https://tetril.github.io/moscow/cars/used/sale/1040757245-f37c2/
 
 В М-ке может быть регион /ХХХ/ - где XXX указание области
+
+##Выдача
+
+https://tetril.github.io/moskovskaya_oblast/cars/jaguar/all/ — выдача всех Ягуаров в Москве и Московской области
+https://tetril.github.io/samara/cars/jaguar/used/ — выдача подержанных Ягуаров в Самаре
+https://tetril.github.io/moskva/cars/jaguar/new/ — — выдача новых Ягуаров в Москве
+https://tetril.github.io/moskva/cars/bmw/used/ — выдача подержанных БМВ в Москве
+https://tetril.github.io/cars/mercedes/c_klasse/all/
+
