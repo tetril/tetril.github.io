@@ -1,9 +1,4 @@
 {
-	"activitycontinuation": {
-    		"apps": [
-      			"6NE3U3D2HE.ru.AutoRu"
-    		]
-  	},
 	"applinks": {
 		"apps": [],
 		"details": [{
@@ -14,7 +9,9 @@
 				"/cars/used/sale/*",
 				"/cars/new/sale/*",
 				"/*/cars/used/sale/*",
-				"/*/cars/new/sale/*"
+				"/*/cars/new/sale/*",
+                "/*/cars/*/",
+                "/cars/*/"
 			]
 		}]
 	}
