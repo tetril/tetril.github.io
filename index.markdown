@@ -37,3 +37,13 @@ https://tetril.github.io/moskva/cars/jaguar/new/ — — выдача новых
 https://tetril.github.io/moskva/cars/bmw/used/ — выдача подержанных БМВ в Москве
 https://tetril.github.io/cars/mercedes/c_klasse/all/
 
+
+
+
+autoru://app/users.auto.ru/sales — вести в ЛК (на список моих объявлений)
+autoru://app/parts — вести в раздел "Запчасти"
+autoru://app/autoservice - вести в раздел "Автосервисы"
+autoru://app/cars/audi/a5/all/ - откроется приложение с выдачей по Audi A5
+
+https://m.auto.ru/promo/marketingtest
+
